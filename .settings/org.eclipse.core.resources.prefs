@@ -1,0 +1,7 @@
+eclipse.preferences.version=1
+encoding//src/lzw/log4j/log4j.properties=gbk
+encoding//src/lzw/log4j/log4j_.properties=gbk
+encoding//src/utils/log4j/log4j.properties=gbk
+encoding//src/utils/log4j/log4j_.properties=gbk
+encoding//src/utils/net/net.properties=gbk
+encoding/<project>=gbk
